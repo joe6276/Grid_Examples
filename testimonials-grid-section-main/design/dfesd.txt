@@ -1,0 +1,16 @@
+Display : Grid
+Grid-template-column: 300px 300px 300px 300px 
+Grid-Template -Rows : 300px 300px 
+Grid-templates-areas:
+
+"one one two  three "
+"four five five three "
+
+
+Unique identifier 
+
+.One{
+
+Grid-area:one 
+
+}
