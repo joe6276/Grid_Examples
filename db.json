@@ -1,0 +1,25 @@
+{
+  "cars": [
+    {
+      "name": "Mercedes Benz",
+      "image": "https://cdn.pixabay.com/photo/2018/10/20/14/14/mercedes-3760878_640.jpg",
+      "description": "Best German Machine",
+      "price": "4000",
+      "id": 2
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2016/06/20/22/32/mercedes-benz-1470115_640.jpg",
+      "description": "Best German Machine",
+      "price": "40000",
+      "name": "Mercedes",
+      "id": 3
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2019/10/06/18/49/mercedes-4530972_640.jpg",
+      "description": "Best German Machine",
+      "price": "4000",
+      "name": "Mercedes AMG",
+      "id": 4
+    }
+  ]
+}
